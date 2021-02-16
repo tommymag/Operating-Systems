@@ -5,3 +5,8 @@ It is the software that manages allocation of computer hardware.
 The operating system uses password protection to protect user data. 
 It also helps to prevent unauthorized access.
 Operating systems also constantly monitor and detect errors to avoid the malfunctioning of computer
+
+An operating system manages device communication by keeping track of all devices connected to system. 
+Designates a program responsible for every device
+Decides which process gets access to a certain device.
+Allocates devices in an effective and efficient way.
