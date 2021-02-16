@@ -1,0 +1,3 @@
+An operating system is a platform, communication (or bridge), interface between the user and hardware. 
+The operating system facilitates a human to computer interaction so a user can tell the computer to execute operations.
+It is the software that manages allocation of computer hardware.
