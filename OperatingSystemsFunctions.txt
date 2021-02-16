@@ -1,3 +1,7 @@
 An operating system is a platform, communication (or bridge), interface between the user and hardware. 
 The operating system facilitates a human to computer interaction so a user can tell the computer to execute operations.
 It is the software that manages allocation of computer hardware.
+
+The operating system uses password protection to protect user data. 
+It also helps to prevent unauthorized access.
+Operating systems also constantly monitor and detect errors to avoid the malfunctioning of computer
